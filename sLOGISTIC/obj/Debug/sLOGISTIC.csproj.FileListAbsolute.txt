@@ -1,0 +1,9 @@
+C:\_CSH\sLOGISTIC\sLOGISTIC\bin\Debug\sLOGISTIC.exe
+C:\_CSH\sLOGISTIC\sLOGISTIC\bin\Debug\sLOGISTIC.pdb
+C:\_CSH\sLOGISTIC\sLOGISTIC\obj\Debug\ResolveAssemblyReference.cache
+C:\_CSH\sLOGISTIC\sLOGISTIC\obj\Debug\sLOGISTIC.Properties.Resources.resources
+C:\_CSH\sLOGISTIC\sLOGISTIC\obj\Debug\sLOGISTIC.csproj.GenerateResource.Cache
+C:\_CSH\sLOGISTIC\sLOGISTIC\obj\Debug\sLOGISTIC.exe
+C:\_CSH\sLOGISTIC\sLOGISTIC\obj\Debug\sLOGISTIC.pdb
+C:\_CSH\sLOGISTIC\sLOGISTIC\obj\Debug\sLOGISTIC.fCraneEntry.resources
+C:\_CSH\sLOGISTIC\sLOGISTIC\obj\Debug\sLOGISTIC.fCraneImage.resources
